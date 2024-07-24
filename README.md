@@ -3,7 +3,10 @@ This was a project for the course of Computre Architecture the goal was to produ
 
 # detail of the development
 the game logic was implemented using C, and assembly code, we also had the possibility to use a library that contained many functions to interact with the components of the board.
+
 ## Landtiger board
+![landtiger board](./immages/landtiger.jpg)
+
   Features:
 * 2 RS232 serial interfaces (using straight-through serial cable), (RS232 Transceiver: SP3232). One serial port supports ISP download of programs.
 * 2 CAN bus communication interfaces (CAN Transceiver: SN65VHD230).
