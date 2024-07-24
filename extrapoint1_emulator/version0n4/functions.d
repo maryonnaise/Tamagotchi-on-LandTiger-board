@@ -1,0 +1,15 @@
+.\functions.o: functions.c
+.\functions.o: C:\Users\muben\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\functions.o: C:\Users\muben\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\functions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\functions.o: C:\Users\muben\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\functions.o: C:\Users\muben\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\functions.o: C:\Users\muben\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\functions.o: C:\Users\muben\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\functions.o: C:\Users\muben\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\functions.o: GLCD/GLCD.h
+.\functions.o: TouchPanel/TouchPanel.h
+.\functions.o: timer/timer.h
+.\functions.o: RIT/RIT.h
+.\functions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\functions.o: joystick/joystick.h
