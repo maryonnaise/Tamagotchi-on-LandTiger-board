@@ -2,7 +2,8 @@
 This was a project for the course of Computre Architecture the goal was to produce a game similar to a Tamagotchi were there is an alien that must be fed to keep him alive.
 
 # detail of the development
-the game logic was implemented using C, and assembly code, we also had the possibility to use a library that contained many functions to interact with the components of the board.
+the game logic was implemented using C, and assembly code, we also had the possibility to use a library that contained many functions to interact with the components of the board. The software was developed using a simulator of the board and then tested on the actual phiscal interface. The project is organized in folders that rappresent the components of the board, in each repository there are the functions that handle theri logic.
+![picture of the emulated game](./immages/alien.png)
 
 ## Landtiger board
 ![landtiger board](./immages/landtiger.jpg)
